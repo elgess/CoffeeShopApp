@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coffee Shop App</string>
+    <string name="sign_in_string">Авторизация</string>
+    <string name="sign_in_enter_username">Логин</string>
+    <string name="sign_in_username">Введите логин...</string>
+    <string name="sign_in_enter_password">Пароль</string>
+    <string name="sign_in_password">Введите пароль...</string>
+    <string name="sign_in_button">Войти</string>
+    <string name="me_page">Мой профиль</string>
+    <string name="home_page">Главная</string>
+    <string name="cart_page">Корзина</string>
+    <string name="menu_cart">Корзина</string>
+    <string name="menu_home">Главная</string>
+    <string name="menu_me">Мой профиль</string>
+    <string name="item_available">Доступно</string>
+    <string name="item_in_stock">На складе</string>
+    <string name="item_rub">РУБ</string>
+    <string name="add_to_cart">В Корзину</string>
+    <string name="item_weight">г</string>
+    <string name="settings">Настройки</string>
+    <string name="remove">Убрать</string>
+    <string name="pay">Оплатить</string>
+    <string name="my_profile">Мой Профиль</string>
+    <string name="name">Имя:</string>
+    <string name="phone">Тел.:</string>
+    <string name="address">Адресс:</string>
+    <string name="language">Язык</string>
+    <string name="russian">Русский</string>
+    <string name="english">Английский</string>
+</resources>
